@@ -4,7 +4,7 @@ Olá ! Bem vindo ao meu livro de receitas :wave:
 
 ## Salgados
 
-- Strogonoff de frango
+- [Strogonoff de frango](receitas/strognoff.md)
 
 ## Doces
  - Pavê
