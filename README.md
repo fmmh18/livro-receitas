@@ -2,4 +2,9 @@
 
 Olá ! Bem vindo ao meu livro de receitas :wave:
 
-- [Strogonoff de frango](/receitas/strognoff.md)
+## Salgados
+
+- Strogonoff de frango
+
+## Doces
+ - Pavê
